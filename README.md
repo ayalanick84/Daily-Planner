@@ -1,1 +1,2 @@
 # Daily-Planner
+This particular project was interesting to me because, there so many different ways to go about it. I began this project in a very overcomplicated way, but as I began seeing other methods in class as well as seeing the instructors demonstrations in office hours, I was able to see a much simpler way to go about this project. The were some bugs that I wasn't able to fix in the alotted time, but overall I'm fairly content with my work.

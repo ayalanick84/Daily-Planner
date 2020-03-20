@@ -37,13 +37,12 @@ $(document).on("click", ".btn", function(event) {
   displayPageContent(localStorage.getItem('descripText'))
   
 });
-$( window ).unload(function() {
-  alert("I work");
-});
+$("#textarea").text(JSON.parse(localStorage.getItem('descripText')));
 // WHEN I click into a timeblock
 // THEN I can enter an event
 
 // WHEN I click the save button for that timeblock
+// WHEN I click into a timeblock
 
 // THEN the text for that event is saved in local storage
 
